@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "obd2_dashboard") (type "KiCad") (uri "${KIPRJMOD}/obd2_dashboard.pretty") (options "") (descr ""))
+	(lib (name "obd2_dashboard") (type "KiCad") (uri "${KIPRJMOD}/obd2_dashboard.pretty") (options "") (descr ""))
+)
